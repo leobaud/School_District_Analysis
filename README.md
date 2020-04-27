@@ -36,6 +36,11 @@ Thomas High school is a medium size school. It is placed on the size range of 10
 
 d)	Scores by School Type
   
-Finally, the scores update affected the school type “Charter” schools. The school type “District” was not affected at all as Thomas High School is not a District type. As shown in the information above, all scores for the “Charter” school type passing percentages were affected and dropped.
+Finally, the scores update affected the school type “Charter” schools. The school type “District” was not affected at all as Thomas High School is not a District type. All scores for the “Charter” school type passing percentages were affected and dropped.
 
 After changing the information for Thomas High School’s 9th graders, the most affected is the school itself. Its indexes dropped drastically and the school became a high scores school to low scores school. Even though the overall district saw a drop as well in its indexes, the size of the 9th graders from a medium size school impact is not really big. 
+
+Included in this URL, the analysis is found with screenshots of the results.
+
+Regards, 
+Leo
