@@ -1,8 +1,6 @@
 # School_District_Analysis
 
-Hello Maria, 
-
-I have completed the update of the information for Thomas High School. All 9th graders scores for math and reading have been changed to “NaN”.
+The update of the information for Thomas High School has bee completed. All 9th graders scores for math and reading have been changed to “NaN”.
 
 After running again the coding, here is how the information has been affected. 
 1)	How is the district summary affected?
@@ -41,6 +39,3 @@ Finally, the scores update affected the school type “Charter” schools. The s
 After changing the information for Thomas High School’s 9th graders, the most affected is the school itself. Its indexes dropped drastically and the school became a high scores school to low scores school. Even though the overall district saw a drop as well in its indexes, the size of the 9th graders from a medium size school impact is not really big. 
 
 Included in this URL, the analysis is found with screenshots of the results.
-
-Regards, 
-Leo
